@@ -2,10 +2,11 @@
 
 # Hi there! I'm Ricardo, and I'm from Mexico ✋
 
-### Aspiring Full Stack Developer, passionate and dedicated to build great-quality applications. Excited to learn new technologies. 💻
+### Aspiring Full Stack Developer, passionate and dedicated to building great-quality applications. Excited to learn new technologies. 💻
 
+- 🎓 I got my bachelor's degree in 2020 from the University of Sonora
 - 🔭 I’m currently working on a Habit tracker project
-- 🌱 I’m currently learning Node.js, and Next.js
+- 🌱 I’m currently learning Node.js and Next.js
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development
 - 📫 How to reach me: ricardoiarced@gmail.com
