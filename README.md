@@ -4,7 +4,7 @@
 
 ### Aspiring Full Stack Developer, passionate and dedicated to building great-quality applications. Excited to learn new technologies. 💻
 
-- 🎓 I got my bachelor's degree in 2020 from the University of Sonora
+- 🎓 I got my bachelor's degree in 2021 from the University of Sonora
 - 🔭 I’m currently working on a Habit tracker project
 - 🌱 I’m currently learning Node.js and Next.js
 - 👯 I’m looking to collaborate on open source projects
