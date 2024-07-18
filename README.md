@@ -2,7 +2,7 @@
 
 # Hi there! I'm Ricardo, and I'm from Mexico ✋
 
-### Aspiring Full Stack Developer, passionate and dedicated to building great-quality applications. Excited to learn new technologies. 💻
+### Software Engineer, passionate and dedicated to building great-quality applications. Excited to learn new technologies. 💻
 
 - 🎓 I got my bachelor's degree in 2021 from the University of Sonora
 - 🔭 I’m currently working on a Habit tracker project
