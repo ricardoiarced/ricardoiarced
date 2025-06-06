@@ -7,7 +7,7 @@
 - 🎓 I got my bachelor's degree in 2021 from the University of Sonora
 - 🔭 I’m currently working as a Software Engineer for a startup.
 - 🌱 I'm currently using Python, XML, CSS, a little of JavaScript and Postgresql to make the processes more efficient.
-- 💻 I'm currently learning Kotlin and practicing DSA.
+- 💻 I'm currently practicing DSA, and System Design.
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development
 - 📫 How to reach me: ricardoiarced@gmail.com
@@ -26,4 +26,3 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
