@@ -5,11 +5,10 @@
 ### Software Engineer, passionate and dedicated to building great-quality applications. Excited to learn new technologies. 💻
 
 - 🎓 I got my bachelor's degree in 2021 from the University of Sonora
-- 🔭 I’m currently working as a Software Engineer for a startup.
-- 🌱 I'm currently using Python, XML, CSS, a little of JavaScript and Postgresql to make the processes more efficient.
-- 💻 I'm currently practicing DSA, and System Design.
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about web development
+- 🔭 I’m currently working as a Software Engineer for a hotel.
+- 🌱 I'm currently using Python, JavaScript, XML, CSS, and Postgresql.
+- 💻 I'm currently practicing DSA, and Systems Design.
+- 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: ricardoiarced@gmail.com
 - 💼 [My portfolio website](https://ricardoiarced.github.io/my-portfolio/)
 
