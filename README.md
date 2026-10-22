@@ -1,27 +1,52 @@
-![Knowledge grows when we share it](./assets/cover.png)
+![Knowledge grows when we share it.](./assets/cover.png)
 
-# Hi there! I'm Ricardo, and I'm from Mexico ✋
+# Ricardo Arce
 
-### Software Engineer, passionate and dedicated to building great-quality applications. Excited to learn new technologies. 💻
+**Software Engineer** · Python · Odoo · Systems Integration
 
-- 🎓 I got my bachelor's degree in 2021 from the University of Sonora
-- 🔭 I’m currently working as a Software Engineer for a hotel.
-- 🌱 I'm currently using Python, JavaScript, XML, CSS, and Postgresql.
-- 💻 I'm currently practicing DSA, and Systems Design.
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: ricardoiarced@gmail.com
-- 💼 [My portfolio website](https://ricardoiarced.github.io/my-portfolio/)
+I build Python/Odoo business workflows, API integrations, and data migrations for hospitality and e-commerce. My personal projects explore TypeScript, web applications, and desktop tools.
 
-## Let's connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-irvin-arce-diaz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardoiarced@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ricardoiarced)
+Based in Hermosillo, Sonora, Mexico. Open to Software Engineer and Odoo Developer roles.
 
-## Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+## Selected projects
+
+**[Software Factory](https://github.com/ricardoiarced/software-factory)** *(work in progress)* — Building a system that starts coding-agent sessions from issues, schedules, and development events, with human review at defined checkpoints.
+
+**[Personal Finance Tracker](https://ricardoiarced.github.io/my-portfolio/projects/personal-finance.html)** — Multi-user finance app for transactions, budgets, investments, and net worth. Next.js, TypeScript, and Supabase, with server-side data access and PostgreSQL Row-Level Security.
+
+## Experience
+
+### Villa Group Resorts & Spas
+
+Junior ERP Developer · Aug 2025 – Sep 2026
+
+- Developed purchasing, inventory, and accounting workflows with unit tests, plus a POS integration generating draft income journal entries. Both projects reached staging.
+- Performed the technical Odoo v17→v19 maintenance upgrade; the team lead deployed it to production.
+- Migrated 2,000+ equipment records from MP9 into Odoo for six additional resorts, expanding coverage from one property to seven.
+
+### Beracah Médica
+
+Junior Software Engineer · Oct 2023 – Aug 2025
+
+- Customized checkout so dropshipping customers could resume payment after supplier confirmation.
+- Built scheduled Odoo pricing exports to AWS S3 and modified Magento price-update logic.
+- Implemented the domain move and 301 redirects during a three-person migration of 10,000+ products from Magento to Odoo.
+
+### Coinsamatik
+
+Application Engineer · Sep 2021 – Jun 2023
+
+Built a C++ flowmeter-reporting application integrating a PLC and HMI with FTP upload to Mexico's national water authority. It reached testing before my departure.
+
+## Toolbox
+
+- **Languages** — Python, TypeScript, JavaScript, SQL, C++
+- **ERP & integration** — Odoo Enterprise (16–19), Odoo ORM, JSON-2 API
+- **Web & data** — Next.js, React, Supabase, PostgreSQL, Tailwind CSS
+- **Tools** — Git, Docker, Linux/WSL, Azure DevOps, Python unittest
+
+B.Sc. in Mechatronics Engineering, Universidad de Sonora. Currently strengthening data structures, algorithms, and system design.
+
+## Connect
+
+[Portfolio](https://ricardoiarced.github.io/my-portfolio/) · [LinkedIn](https://www.linkedin.com/in/ricardo-irvin-arce-diaz/) · [Email](mailto:ricardoiarced@gmail.com) · [X](https://twitter.com/ricardoiarced)
