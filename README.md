@@ -1,4 +1,4 @@
-![Let's share knowledge](https://github.com/ricardoiarced/ricardoiarced/assets/88550263/a6177de4-a6da-4a8f-8344-fbe25f49e83a)
+![Knowledge grows when we share it](./assets/cover.png)
 
 # Hi there! I'm Ricardo, and I'm from Mexico ✋
 
