@@ -1,9 +1,5 @@
 ![Knowledge grows when we share it.](./assets/cover.png)
 
-# Ricardo Arce
-
-**Software Engineer** · Python · Odoo · Systems Integration
-
 I build Python/Odoo business workflows, API integrations, and data migrations for hospitality and e-commerce. My personal projects explore TypeScript, web applications, and desktop tools.
 
 Based in Hermosillo, Sonora, Mexico. Open to Software Engineer and Odoo Developer roles.
