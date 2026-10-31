@@ -4,12 +4,6 @@ I build Python/Odoo business workflows, API integrations, and data migrations fo
 
 Based in Hermosillo, Sonora, Mexico. Open to Software Engineer and Odoo Developer roles.
 
-## Selected projects
-
-**[Software Factory](https://github.com/ricardoiarced/software-factory)** *(work in progress)* — Building a system that starts coding-agent sessions from issues, schedules, and development events, with human review at defined checkpoints.
-
-**[Personal Finance Tracker](https://ricardoiarced.github.io/my-portfolio/projects/personal-finance.html)** — Multi-user finance app for transactions, budgets, investments, and net worth. Next.js, TypeScript, and Supabase, with server-side data access and PostgreSQL Row-Level Security.
-
 ## Experience
 
 ### Villa Group Resorts & Spas
@@ -33,6 +27,12 @@ Junior Software Engineer · Oct 2023 – Aug 2025
 Application Engineer · Sep 2021 – Jun 2023
 
 Built a C++ flowmeter-reporting application integrating a PLC and HMI with FTP upload to Mexico's national water authority. It reached testing before my departure.
+
+## Projects
+
+**[Software Factory](https://github.com/ricardoiarced/software-factory)** *(work in progress)* — Building a system that starts coding-agent sessions from issues, schedules, and development events, with human review at defined checkpoints.
+
+**[Personal Finance Tracker](https://ricardoiarced.github.io/my-portfolio/projects/personal-finance.html)** — Multi-user finance app for transactions, budgets, investments, and net worth. Next.js, TypeScript, and Supabase, with server-side data access and PostgreSQL Row-Level Security.
 
 ## Toolbox
 
